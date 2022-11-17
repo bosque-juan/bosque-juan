@@ -45,19 +45,10 @@
 
 </p>
 
-### Github Stats
-(Thank you <a target="_blank" href="https://github.com/anuraghazra/github-readme-stats">Anuraghazra</a>)
-
-<table>
-  <tr>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veroMoreno&theme=radical&card_width=450em)](https://github.com/veroMoreno/veroMoreno/github-readme-stats"/></td>
-    <td valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=veroMoreno&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical&hide_stars=false" /></td>
-  </tr>
-</table>
 
 ### Iconos & badgets sociales
 
-### <a href="https://www.instagram.com/meleliana2123/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="veritechie" height="30" width="40" /></a>  <a href="https://www.instagram.com/meleliana2123/" target="_blank">Juan Bosque</a>
+### <a href="https://www.instagram.com/bosque.j/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="veritechie" height="30" width="40" /></a>  <a href="https://www.instagram.com/meleliana2123/" target="_blank">Juan Bosque</a>
  <a href="https://www.instagram.com/bosque.j/?hl=es" target="_blank"></a>
 
 <p>
