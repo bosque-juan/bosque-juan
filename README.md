@@ -47,7 +47,7 @@
 
 ### Iconos & badgets sociales
 
-### <a href="https://www.instagram.com/bosque.j/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="veritechie" height="30" width="40" /></a>  <a href="https://www.instagram.com/meleliana2123/" target="_blank">Juan Bosque</a>
+### <a href="https://www.instagram.com/bosque.j/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="veritechie" height="30" width="40" /></a>  <a href="https://www.instagram.com/bosque.j/" target="_blank">Juan Bosque</a>
  <a href="https://www.instagram.com/bosque.j/?hl=es" target="_blank"></a>
 
 <p>
