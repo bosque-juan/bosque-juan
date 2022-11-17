@@ -4,7 +4,6 @@
 
 <h1>Bienveidos a mi perfil de Git Hub 🤲</h1>
 
-<a href="https://www.linkedin.com/in/juan-bosque-front-end/">Linkedin</a>
 
 <h1> About me </h1>
 
