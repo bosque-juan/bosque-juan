@@ -1,4 +1,12 @@
-Hola a todos! Bienveidos a mi perfil de Git Hub
+Hola a todos! 👋
+
+Soy Juan Bosque 💻
+
+Bienveidos a mi perfil de Git Hub 🤲
+
+<a href="https://www.linkedin.com/in/juan-bosque-front-end/">Linkedin</a>
+
+
 
 <!--
 **juanchos85/juanchos85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
