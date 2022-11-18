@@ -52,7 +52,7 @@
 
 <p>
  
-  <a href="https://www.linkedin.com/in/juan-bosque-front-end/">
+  <a href="https:/www.linkedin.com/in/juan-bosque-front-end/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mail:juan_bosque@hotmail.com">
