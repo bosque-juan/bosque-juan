@@ -53,7 +53,7 @@
  
  <span >
 <a href="https://www.linkedin.com/in/juan-bosque-front-end/" ><img alt="veritechie" height="20" width="60"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> &nbsp;
-<a href="mailto:juan_bosque@hotmail.com" ><img alt="veritechie" height="20" width="60"  src="https://img.shields.io/badge/hotmail-0077B5?style=for-the-badge&logo=hotmail&logoColor=white">
+<a href="mailto:juan_bosque@hotmail.com" ><img alt="veritechie" height="20" width="60"  src="https://img.shields.io/badge/hotmail-0077B5?style=for-the-badge&logo=Hotmail&logoColor=white">
 </span>
 
 
