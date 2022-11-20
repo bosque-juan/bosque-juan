@@ -5,7 +5,7 @@
 <h1>Bienveidos a mi perfil de Git Hub </h1>
 
 
-<h1> About me </h1>
+<h1> Sobre mí </h1>
 
 <h4> Desarrollador web full stack, esperando compartir técnologias, conocmientos y aprendizajes. Abierto a compartir y aprender </h4>
 
@@ -56,6 +56,10 @@
 <a href="mailto:juan_bosque@hotmail.com" ><img alt="veritechie" height="20" width="60"  src="https://img.shields.io/badge/hotmail-0077B5?style=for-the-badge&logo=Hotmail&logoColor=white">
 </span>
 
+  </br>
+<h4 align="center">Visitor's :eyes:</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{juanchos85}/count.svg" alt="juanchos85 :: Visitor's Count" /></p>
 
 
 <!--
