@@ -52,7 +52,7 @@
  
  
  <span >
-<a href="https://www.linkedin.com/in/juan-bosque-front-end/" ><img width="5%" src="https://github.com/juanchos85/juanchos85/blob/main/logos/linkedin-icon.png"> &nbsp;
+<a href="https://www.linkedin.com/in/juan-bosque-front-end/" ><img width="5%" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> &nbsp;
 <a href="mailto:juan_bosque@hotmail.com" ><img width="5%" src="https://img.shields.io/badge/hotmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </span>
 
@@ -62,7 +62,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mail:juan_bosque@hotmail.com">
-    <img src="https://img.shields.io/badge/hotmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/hotmail-0077B5?style=for-the-badge&logo=hotmail&logoColor=white">
   </a>
 </p> -->
 
