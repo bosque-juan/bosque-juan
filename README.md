@@ -49,8 +49,14 @@
 
 ### <a href="https://www.instagram.com/bosque.j/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="veritechie" height="30" width="40" /></a>  <a href="https://www.instagram.com/bosque.j/" target="_blank">Juan Bosque</a>
  <a href="https://www.instagram.com/bosque.j/?hl=es" target="_blank"></a>
+ 
+ 
+ <span >
+<a href="https://www.linkedin.com/in/juan-bosque-front-end/" ><img width="5%" src="https://github.com/juanchos85/juanchos85/blob/main/logos/linkedin-icon.png"> &nbsp;
+<a href="mailto:juan_bosque@hotmail.com" ><img width="5%" src="https://img.shields.io/badge/hotmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</span>
 
-<p>
+<!-- <p>
  
   <a href="https:/www.linkedin.com/in/juan-bosque-front-end/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -58,7 +64,7 @@
   <a href="mail:juan_bosque@hotmail.com">
     <img src="https://img.shields.io/badge/hotmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-</p>
+</p> -->
 
 <!--
 **juanchos85/juanchos85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
