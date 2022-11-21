@@ -1,9 +1,10 @@
-<h1> Hola a todos! 👋 </h1>
 
-<h1>Soy Juan Bosque 💻 </h1>
+
+
 
 <h1>Bienveidos a mi perfil de Git Hub </h1>
 
+<h1>Soy Juan Bosque 💻 </h1>
 
 <h1> Sobre mí </h1>
 
