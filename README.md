@@ -7,7 +7,7 @@
 
 <h1> Sobre mí </h1>
 
-<h4> Desarrollador web full stack, esperando compartir técnologias, conocmientos y aprendizajes. Abierto a compartir y aprender </h4>
+<h4> Desarrollador web full stack, esperando compartir técnologias, conocimientos y aprendizajes. Abierto a compartir y aprender </h4>
 
 
 
