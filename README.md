@@ -8,7 +8,7 @@
 
 
 
-<h4> Soy desarrollador web full stack, con preferencia en Front End. Me gusta realizar desarrollos con React - Redux </h4>
+<h4> Desarrollador web full stack, con preferencia en Front End. Me gusta realizar desarrollos con React - Redux </h4>
 
 
 
