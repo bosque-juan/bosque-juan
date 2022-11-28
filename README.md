@@ -4,7 +4,7 @@
 
 <h1>Hola a todos! Bienvenidos a mi perfil de Git Hub </h1>
 
-//<h1>Soy Juan Bosque 💻 </h1>
+<h1>Soy Juan Bosque 💻 </h1>
 
 
 
