@@ -2,7 +2,7 @@
 
 
 
-<h1>Hola a todos! Bienvenidos a mi perfil de Git Hub, soy Juan </h1>
+<h1>Hola a todos! Bienvenidos a mi perfil de Git Hub </h1>
 
 
 
