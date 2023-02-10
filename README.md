@@ -2,11 +2,12 @@
 
 
 
-<h1>Hola a todos! Bienvenidos a mi perfil de Git Hub </h1>
+<h1>Hi to everyone! Welcome to my Git Hub profile </h1>
 
 
 
-<h4> Desarrollador web full stack, con preferencia en Front End. Me gusta realizar desarrollos con React - Redux </h4>
+<h4> I´m a full stack web developer, with preference on Front End. I like to make web site, usefulls, innovative. I like details and things that make difference.
+I'm currently working and learning about a React Native App</h4>
 
 
 
