@@ -6,23 +6,29 @@
 
 
 
-<h4> I´m a full stack web developer, with preference on Front End. I like to make web site, usefulls, innovative. I like details and things that make difference.
-I'm currently working and learning about a React Native App</h4>
+<h4> I´m a web developer. I like making interactives and interesting web site for users; where they found it as a nice thing.
+  
+I'm currently doing a bakery web page </br>
+also studying English(B2),</br> 
+and learning in depth about technologies that I know and new ones too</h4>
 
 
 
 <h4>Programming Languages</h4>
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
+   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+
 </p>
 
 <h3>
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
 </h3> 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+ 
+
 </p>
 
 <h3>
