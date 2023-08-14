@@ -6,7 +6,7 @@
 
 
 
-<h4> I´m a web developer. I like making interactives and interesting web site for users; where they found it as a nice thing.
+<h4> I´m a web developer. I like making interactive and interesting websites for users; where they found it as a nice thing.
   
 I'm currently doing a bakery web page </br>
 also studying English(B2),</br> 
@@ -38,7 +38,8 @@ and learning in depth about technologies that I know and new ones too</h4>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/PostgresSql-005C84?style=for-the-badge&logo=postgresSql&logoColor=white">
-  
+  <img src="https://img.shields.io/badge/dynamic/json">
+
 
 </p>
 
