@@ -6,11 +6,11 @@
 
 
 
-<h4> I´m a web developer. I like making interactive and interesting websites for users; where they found it as a nice thing.</br></br>
+<h4> I´m a web developer. I like making interactive and interesting websites for users; where they found it as a nice experience.</br></br>
   
-I'm currently doing a bakery web page, </br></br>
+I'm currently doing a bakery web site, </br></br>
 studying English(B2);</br> </br>
-and learning in depth about technologies that I know and new ones too</h4>
+and learning about TypeScript </h4>
 
 
 
