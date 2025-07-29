@@ -51,12 +51,6 @@ Currently studying Programming at the National Technological University.
 
 </br></br>
 
-<h4 align="center">Visitor's 👀</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/Visitors-0000-blue?style=for-the-badge" alt="Visitors badge" />
-</p>
-
-
 <!--
 **juanchos85/juanchos85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
