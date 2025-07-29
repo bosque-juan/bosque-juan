@@ -3,9 +3,9 @@
 <h4>
   I'm a web developer who enjoys creating interactive and engaging websites that provide a great user experience.
   </br></br>
-  I'm currently working on a bakery website, </br></br>
-  studying English (B2 level), </br></br>
-  and learning TypeScript.
+Currently studying Programming at the National Technological University.
+ </br></br>
+
 </h4>
 
 <h4>Programming Languages</h4>
@@ -53,8 +53,9 @@
 
 <h4 align="center">Visitor's 👀</h4>
 <p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/bosque-juan&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=visitors&edge_flat=false"/>
+  <img src="https://img.shields.io/badge/Visitors-0000-blue?style=for-the-badge" alt="Visitors badge" />
 </p>
+
 
 <!--
 **juanchos85/juanchos85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
