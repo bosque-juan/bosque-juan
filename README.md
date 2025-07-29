@@ -53,7 +53,7 @@
 
 <h4 align="center">Visitor's 👀</h4>
 <p align="center">
-  <img src="https://profile-counter.glitch.me/bosque-juan/count.svg" alt="Visitor Count">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/bosque-juan&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=visitors&edge_flat=false"/>
 </p>
 
 <!--
