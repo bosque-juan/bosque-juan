@@ -66,7 +66,7 @@ and learning about TypeScript </h4>
   </br>
 <h4 align="center">Visitor's :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{bosque-juan}/count.svg" alt="juanchos85 :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{bosque-juan}/count.svg" alt="bosque-juan :: Visitor's Count" /></p>
 
 
 <!--
