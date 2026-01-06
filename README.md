@@ -1,7 +1,7 @@
 <h1>Hi! My pleasure having you here</h1>
 
 <h4>
-  Let me introduce myself.
+  Let me introduce myself. <b>
   My name is Juan, and I am a Backend / Full Stack Developer. While I focus mainly on Backend development, I also have experience building frontends with React and TypeScript. 
   Currently, I am studying Computer Programming at UTN, where I have gained amazing experience and valuable knowledge.
   My goals are to work in an IT company where I can provide solutions, apply my knowledge, and grow professionally.
