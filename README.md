@@ -2,7 +2,7 @@
 
 <!-- ![Profile Banner](assets/final_banner.png) -->
 
-# Hi there, this is Renji ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hi there, this is Yamamoto ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ### Senior AI/ML Engineer | Full Stack Engineer | Prompt Engineer
 
@@ -14,7 +14,7 @@ Available for **freelance** , **collaborations**  and enjoyable **side projects*
 
 ### 🚀 **About Me**
 
-* **AI/ML, Full-Stack & Prompt Engineer** with **8+ years** of professional experience building and shipping production software.
+* **AI/ML, Full-Stack & Prompt Engineer** with **6+ years** of professional experience building and shipping production software.
 * Experienced in developing **AI-powered applications**, scalable **web platforms** and **cross-platform mobile apps** using **Python**, **TypeScript**, **React**, **Next.js**, **Node.js**, **Flutter**, and **React Native**.
 * Built and deployed real-world systems including **AI chatbots**, **RAG pipelines**, **automation tools** and **end-to-end SaaS products** across **AI**, **FinTech**, **Healthcare**, **Web3**, **E-commerce** and **Enterprise SaaS** domains.
 * Strong background in **backend and infrastructure** with hands-on experience in **FastAPI**, **Django**, **NestJS**, **PostgreSQL**, **Redis**, **Docker**, **Linux**, **AWS** and **Vercel**.
