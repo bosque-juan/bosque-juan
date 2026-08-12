@@ -2,7 +2,7 @@
 
 <!-- ![Profile Banner](assets/final_banner.png) -->
 
-# Hi there, this is Yamamoto ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hi there, Thank you for visiting ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ### Senior AI/ML Engineer | Full Stack Engineer | Prompt Engineer
 
