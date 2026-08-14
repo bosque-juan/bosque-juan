@@ -4,7 +4,7 @@
 
 # Hi there, Thank you for visiting ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-### Senior AI/ML Engineer | Full Stack Engineer | Prompt Engineer
+### Senior AI/ML Engineer | Full Stack Engineer | Prompt Engineer | Blockchain Engineer
 
 Welcome to my GitHub! I assist in transforming unprocessed **ideas** into dependable, quick **products**. **Full-stack developer** with extensive experience in **AI/ML** - Rather than only looking nice in **notebooks**, I create, teach, implement and manage systems that address **real problems**. I'm currently passionate about **production MLOps** , **efficient inference**  and anything that has to **scale** without going over budget.
 Available for **freelance** , **collaborations**  and enjoyable **side projects** -> DMs are available.
